@@ -1,3 +1,9 @@
+# Custom List
+myenv
+.python-version
+sample_repo.py 
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
